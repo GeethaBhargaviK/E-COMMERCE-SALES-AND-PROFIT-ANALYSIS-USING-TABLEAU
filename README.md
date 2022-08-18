@@ -1,6 +1,6 @@
 # E-COMMERCE-SALES-AND-PROFIT-ANALYSIS-USING-TABLEAU
 
-##Brief Summary
+## Brief Summary
 
 Objective: To analyse the sales data and identify weak areas and opportunities for Super Store to boost business growth
  
